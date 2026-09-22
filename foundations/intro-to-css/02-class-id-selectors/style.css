@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.impar {
+    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+    background-color: rgb(243, 94, 94);
+}
+
+#segundo {
+    color: blue; font-size: 36px;
+}
+
+.tercero {
+    font-size: 24px;
+}
+
+#cuarto {
+    background-color: rgb(114, 233, 114);
+    font-weight: bold;
+    font-size: 24px;
+}
