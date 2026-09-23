@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.container p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} 
+
+.primary#title{
+    color: red;
+}
+
+/* .container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
